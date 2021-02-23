@@ -1,2 +1,0 @@
-# haveTest
-have a test
